@@ -288,6 +288,7 @@ header nav li:last-child{
 
 .features{
 	background-color: #f7f7f7;
+	padding-top: 2px;
 }
 
 .features .grid li{
